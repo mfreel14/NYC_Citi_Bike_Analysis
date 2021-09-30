@@ -1,5 +1,9 @@
 # Citi Bike Analysis
 
+Tableau Link:
+[link to dashboard](https://public.tableau.com/views/NYCCitiBikeChallenge_16330343165230/NYCCitiBikeAnalysis?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link)
+
+
 ## Project Overview - (Project Name)
 The key stakeholders would like to see a bike trip analysis to decide if a bike-sharing program in Des Moines is a solid business proposal.
 
@@ -48,7 +52,7 @@ Thursday for both male and female subscribers is the most popular day for trips.
 
 The total of rides for the data set is 2,344,224.  From those rides 'Subscriber' accounted for 1,900,359 and 'Customer' accounted for 443,865.
 
-## (Project Name) - Summary
+## Citi Bike Analysis  - Summary
 Based on the results we can determine that Males account for the majority of rides followed by Females and Unknown.  The large majority of rides come from those who are 'Subscribers'.  The data also tells us that Thursdays at 6:0pm is the most popular day and time for rides.
 
 Further analysis would provide more insight for decision making.  An additional visualization comparing city population between NYC and Des Moines would be helpful to understand forcast on monetary returns.  
