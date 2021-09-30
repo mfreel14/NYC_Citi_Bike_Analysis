@@ -1,6 +1,6 @@
 # Citi Bike Analysis
 
-Tableau Link:
+Tableau:
 [link to dashboard](https://public.tableau.com/views/NYCCitiBikeChallenge_16330343165230/NYCCitiBikeAnalysis?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link)
 
 
