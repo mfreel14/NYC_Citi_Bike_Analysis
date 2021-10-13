@@ -4,7 +4,7 @@ Tableau:
 [link to dashboard](https://public.tableau.com/views/NYCCitiBikeChallenge_16330343165230/NYCCitiBikeAnalysis?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link)
 
 
-## Project Overview - (Project Name)
+## Project Overview - Citi Bike Analysis
 The key stakeholders would like to see a bike trip analysis to decide if a bike-sharing program in Des Moines is a solid business proposal.
 
 With Tableau we will create a story with our analysis visualizations that show the length of time that bikes are checked out for all riders and genders and the number of bike trips for all riders and genders for each hour of each day of the week.  We will also show the number of bike trips for each type of user and gender for each day of the week.  With some additional visualizations we'll create a final presentation and analysis to pitch to investors.
